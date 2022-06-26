@@ -8,5 +8,3 @@ The code is also available to store gradients for back-proporgation.
 training_data.npy stores converted data from kaggle cat-and-dog dataset.
 
 load_data.py stores the data-preprocessing code that convert raw image data to numpy forms. 
-
-This repository is not updated activatly
